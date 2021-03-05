@@ -786,6 +786,10 @@ textarea.form-control {
   font-size: 25px;
 }
 
+#submit-btn {
+  margin-top: 24%;
+}
+
 /*==============================================
 09. TESTIMONOALS BLOCK CSS
 ================================================*/
