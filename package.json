@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorMul/portfolio.git"
+  },
+  "author": "connormul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnorMul/portfolio/issues"
+  },
+  "homepage": "https://github.com/ConnorMul/portfolio#readme"
+}
